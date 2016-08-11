@@ -1,0 +1,2 @@
+D:\Users\skanchan\Desktop\GitHub\COBOLCODE\Project2\Project2\bin\x86\Debug\Project2.dll
+D:\Users\skanchan\Desktop\GitHub\COBOLCODE\Project2\Project2\obj\x86\Debug\Project2.dll
