@@ -10,7 +10,7 @@
        procedure division.
        MAIN-LOGIC SECTION.
              BEGIN.
-            display "Hello world! I am in india".
+            display "Hello world! I am good".
             STOP RUN.
             MAIN-LOGIC-EXIT.
             EXIT. 
